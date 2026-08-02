@@ -208,15 +208,10 @@ Air-Pollution-Time-Series-Forecasting/
 │
 ├── reports/
 │   └── Air_Pollution_Analysis_Report.pdf
-│
-├── outputs/
 │   ├── forecasts/
 │   └── model_results/
 │
-└── images/
-    ├── charts/
-    └── visualisations/
-```
+
 
 ---
 
@@ -230,8 +225,3 @@ Potential enhancements include:
 - Developing an interactive dashboard using Streamlit or Power BI.
 - Deploying the forecasting workflow as a cloud-based analytics application.
 
----
-
-## Why This Project Matters
-
-This project demonstrates the complete lifecycle of a time-series analytics workflow, from preparing raw environmental data to building and evaluating forecasting models. It showcases practical skills in data cleaning, statistical analysis, predictive modelling, and communicating insights through visualisation. The techniques used are directly applicable to environmental analytics, business intelligence, and broader data science projects where forecasting and trend analysis support evidence-based decision-making.
